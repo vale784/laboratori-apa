@@ -1,0 +1,8 @@
+Animatore0
+Residenza1 Residenza3 Residenza0 Residenza2
+Animatore1
+Residenza2 Residenza0 Residenza3 Residenza1
+Animatore2
+Residenza1 Residenza2 Residenza0 Residenza3
+Animatore3
+Residenza3 Residenza0 Residenza2 Residenza1
